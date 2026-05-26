@@ -35,9 +35,9 @@ Identificar y documentar posibles errores, vulnerabilidades y problemas de usabi
 ## Login-Obeservaciones
 ![Pantalla Login](./image/login.png)
 
-# Problema 1 — Errores ortográficos y de redacción
+# Problema 1 — # Problema — Mensajes de error con baja visibilidad visual
 
-El mensaje de error mostrado en la pantalla de login presenta errores ortográficos y falta de tildes, lo que afecta la claridad del mensaje y la apariencia profesional de la interfaz.
+El mensaje de error presentado en el formulario de login no posee suficiente separación visual respecto a los demás elementos, lo que puede dificultar su identificación y comprensión por parte del usuario.ñ
 
 ![Pantalla Login](./image/login2.png)
 
