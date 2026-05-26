@@ -64,6 +64,7 @@ La interfaz presenta problemas de organización visual, inconsistencias en tama�
 La interfaz presenta problemas de distribución en la tabla de clientes, ya que algunos datos como las fechas se sobreponen o quedan demasiado cerca de otros elementos, afectando la legibilidad y la organización visual del sistema.
 
 ![Pantalla Login](./image/Clientes.png)
+![Pantalla Login](./image/Plataforma.png)
 
 ---
 
