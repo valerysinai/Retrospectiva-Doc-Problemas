@@ -59,5 +59,16 @@ La interfaz presenta problemas de organización visual, inconsistencias en tama�
 
 ---
 
-# Problema 4 — Diseño visual y estructura de la interfaz
+# Problema 4 — Mala distribución y desbordamiento de información
 
+La interfaz presenta problemas de distribución en la tabla de clientes, ya que algunos datos como las fechas se sobreponen o quedan demasiado cerca de otros elementos, afectando la legibilidad y la organización visual del sistema.
+
+![Pantalla Login](./image/Clientes.png)
+
+---
+
+# Problema 5 — Diseño responsive 
+
+La interfaz presenta problemas de adaptación en resoluciones móviles, ya que algunos elementos se desorganizan, se ven demasiado ajustados y dificultan la lectura e interacción del usuario en pantallas pequeñas.
+
+![Pantalla Login](./image/Responsive.png)
